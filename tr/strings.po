@@ -63,7 +63,7 @@ msgstr "Ödüller"
 
 #. i18n: keyword: Transactions
 msgid "Transactions"
-msgstr ""
+msgstr "İşlemler"
 
 #. i18n: keyword: Settings
 msgid "Settings"
@@ -203,7 +203,7 @@ msgstr "Oops, Buraya ulaşmak için kullandığınız bağlantının geçersiz."
 
 #. i18n: keyword: E_EMAIL_IS_NOT_VERIFIED
 msgid "Please verify your email address to continue."
-msgstr ""
+msgstr "Devam edebilmek için lütfen epostanı doğrula."
 
 #. i18n: keyword: E_EMAIL_VERIFIED
 msgid "Your e-mail has already been verified."
@@ -355,7 +355,7 @@ msgstr "Bu, hesabınız veya oyunlarınızla ilgili güncellemeler ve haberler g
 
 #. i18n: keyword: ChangeEmailInProgress
 msgid "We have sent a verification code to your new email address to authorize the change."
-msgstr ""
+msgstr "Yeni email adresine değişikliği onaylama için bir doğrulama kodu gönderdik."
 
 #. i18n: keyword: Inventory
 msgid "Inventory"
@@ -831,11 +831,11 @@ msgstr "Ayarları İndir"
 
 #. i18n: keyword: UpcomingBetasTitle
 msgid "Testing of Upcoming Projects"
-msgstr ""
+msgstr "Gelecek Projelerin Testleri"
 
 #. i18n: keyword: UpcomingBetasDescription
 msgid "You can register for testing alpha and beta projects in which you are interested. You will receive an email if you are accepted into one."
-msgstr ""
+msgstr "İlgilendiğin Alpha veya Beta projelerin testleri için kayıt olabilirsin. Kabul edildiğinde bir mail alıcaksın. "
 
 #. i18n: keyword: BetaStatus
 msgid "Status:"
@@ -851,7 +851,7 @@ msgstr "Kayıt"
 
 #. i18n: keyword: BetaRegistered
 msgid "Registered. We will notify you if you have been selected to participate in this test."
-msgstr ""
+msgstr "Kayıt olundu. Bu testte yer almak için seçilirsen biz seni bilgilendireceğiz."
 
 #. i18n: keyword: BetaAccepted
 msgid "Accepted"
@@ -1451,7 +1451,7 @@ msgstr "Beta artık aktif değil."
 
 #. i18n: keyword: E_MISSING_BASE_GAME_FOR_BETA
 msgid "You must own the base game to participate in this test."
-msgstr ""
+msgstr "Bu testin bir parçası olabilmek için oyuna sahip olman lazım."
 
 #. i18n: keyword: E_CANNOT_PARSE_FORM
 msgid "Your computer sent incorrect data to the server."
@@ -1563,7 +1563,7 @@ msgstr "Geçersiz doğrulama kodu."
 
 #. i18n: keyword: E_INVALID_EMAIL_VERIFICATION_CODE
 msgid "Invalid email verification code."
-msgstr ""
+msgstr "Geçersiz email doğrulama kodu."
 
 #. i18n: keyword: E_INVALID_AUTH_PROVIDER
 msgid "The authorization provider was not detected. Please check if your web browser accepts cookies from this website, then go to the “Login” page and try one more time."
@@ -1811,32 +1811,32 @@ msgstr "Gönderim ve mesaj için teşekkürler. Maalesef seksen (80) karakterlik
 
 #. i18n: keyword: ReviewEULATitle
 msgid "Review End-User License Agreement and Terms of Service"
-msgstr ""
+msgstr "Son Kullanıcı Lisans Sözleşmesi ve Kullanım Şartları'nı göster."
 
 #. i18n: keyword: ReviewEULADescription
 msgid "Hello <code>{{.Data.KU}}</code>,<br><br>Your account has been banned for violation of the End-User License Agreement or Terms of Service.<br><br>Please, read carefully and make a conscious decision whether you want continue participating in our community and playing our games or not."
-msgstr ""
+msgstr "Selam <code>{{.Data.KU}}</code>,<br><br>Hesabın Son Kullanıcı Lisans Sözleşmesi veya Kullanım Şartları'na uymadığın için yasaklandı.<br><br>Lütfen, dikkatlice oku ve bizim topluluğumuzda bulunmak ve oyunlarımızı oynamak isteyip istemediğin hakkında bilinçli bir seçim yap. "
 
 #. i18n: keyword: ReviewEULAWarning
 msgid "Further violation of the terms of service may result in additional restrictions on your account such as temporary or permanent restriction from access to online services."
-msgstr ""
+msgstr "Kullanım şartları hakkında yapılan daha fazla ihlal hesabınızda çevrimiçi sunucularımıza bağlanmanızda geçiçi veya sınırsız kısıtlamalar gibi ek kısıtlamalara yol açabilir."
 
 #. i18n: keyword: E_REVIEW_EULA_REVIEWS_NOT_FOUND
 msgid "It looks like you did not review any of the End-User License Agreement and Terms of Service. Please, click on each link, read the information, and tick the checkboxes if you consciously agree with the terms of service."
-msgstr ""
+msgstr "Görünüşe göre Son Kullanıcı Lisans Sözleşmesi ve Kullanım Şartları 'nı incelememişsiniz. Lütfen, linklere tıkla, bilgilendirmeyi oku, ve bilinçli bir şekilde kullanım şartlarını kabul ediyorsan kutucukları işaretle."
 
 #. i18n: keyword: E_REVIEW_EULA_MISSING_REVIEWS
 msgid "It looks like you did not review all of the End-User License Agreement and Terms of Service. Please, visit the previous page, read the information, and tick the checkboxes if you consciously agree with the terms of service."
-msgstr ""
+msgstr "Görünüşe göre Son Kullanıcı Lisans Sözleşmesi ve Kullanım Şartları 'nı incelememişsiniz. Lütfen, önceki sayfaya geri dön, bilgilendirmeyi oku, ve bilinçli bir şekilde kullanım şartlarını kabul ediyorsan kutucukları işaretle."
 
 #. i18n: keyword: E_USER_IS_NOT_BANNED
 msgid "Your account is not banned."
-msgstr ""
+msgstr "Hesabın yasaklı değil."
 
 #. i18n: keyword: E_USER_BAN_IS_NOT_REVERSIBLE
 msgid "The ban in your account is not reversible."
-msgstr ""
+msgstr "Hesabındaki yasaklama geri döndürülemez. "
 
 #. i18n: keyword: E_INVALID_GOTO_URL
 msgid "Oh no! It looks like you clicked a broken link. You might need to authenticate again."
-msgstr ""
+msgstr "Olamaz. Görünüşe göre kırık bir linke tıkladın. Tekrar kontrol etmen gerekebilir."
