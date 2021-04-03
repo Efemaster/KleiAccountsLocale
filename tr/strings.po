@@ -63,7 +63,7 @@ msgstr "Ödüller"
 
 #. i18n: keyword: Transactions
 msgid "Transactions"
-msgstr ""
+msgstr "İşlemler"
 
 #. i18n: keyword: Settings
 msgid "Settings"
@@ -203,7 +203,7 @@ msgstr "Oops, Buraya ulaşmak için kullandığınız bağlantının geçersiz."
 
 #. i18n: keyword: E_EMAIL_IS_NOT_VERIFIED
 msgid "Please verify your email address to continue."
-msgstr ""
+msgstr "Lütfen devam etmek için eposta adresinizi doğrulayın."
 
 #. i18n: keyword: E_EMAIL_VERIFIED
 msgid "Your e-mail has already been verified."
@@ -355,7 +355,7 @@ msgstr "Bu, hesabınız veya oyunlarınızla ilgili güncellemeler ve haberler g
 
 #. i18n: keyword: ChangeEmailInProgress
 msgid "We have sent a verification code to your new email address to authorize the change."
-msgstr ""
+msgstr "Yeni email adresinize değişiklik onayı için bir eposta yolladık."
 
 #. i18n: keyword: Inventory
 msgid "Inventory"
@@ -835,7 +835,7 @@ msgstr ""
 
 #. i18n: keyword: UpcomingBetasDescription
 msgid "You can register for testing alpha and beta projects in which you are interested. You will receive an email if you are accepted into one."
-msgstr ""
+msgstr "İstediğin alpha veya beta projelerin testi için başvurabilirsin. Kabul edildiğinde bir email alacaksın."
 
 #. i18n: keyword: BetaStatus
 msgid "Status:"
@@ -851,7 +851,7 @@ msgstr "Kayıt"
 
 #. i18n: keyword: BetaRegistered
 msgid "Registered. We will notify you if you have been selected to participate in this test."
-msgstr ""
+msgstr "Kayıt olundu. Eğer bu test için seçilirsen biz seni bilgilendireceğiz."
 
 #. i18n: keyword: BetaAccepted
 msgid "Accepted"
@@ -1831,12 +1831,12 @@ msgstr ""
 
 #. i18n: keyword: E_USER_IS_NOT_BANNED
 msgid "Your account is not banned."
-msgstr ""
+msgstr "Hesabın yasaklı değil."
 
 #. i18n: keyword: E_USER_BAN_IS_NOT_REVERSIBLE
 msgid "The ban in your account is not reversible."
-msgstr ""
+msgstr "Hesabındaki yasaklama kaldırılamaz."
 
 #. i18n: keyword: E_INVALID_GOTO_URL
 msgid "Oh no! It looks like you clicked a broken link. You might need to authenticate again."
-msgstr ""
+msgstr "Olamaz! Görünüe göre kırık bir linke tıkladın. Tekrar doğrulaman gerekebilir."
